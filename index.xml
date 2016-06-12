@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>keqh.net</title>
+    <link>http://keqh.net/</link>
+    <description>Recent content on keqh.net</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Sun, 12 Jun 2016 15:48:30 +0900</lastBuildDate>
+    <atom:link href="http://keqh.net/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>portfolio</title>
+      <link>http://keqh.net/portfolio/</link>
+      <pubDate>Sun, 12 Jun 2016 15:48:30 +0900</pubDate>
+      
+      <guid>http://keqh.net/portfolio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>about</title>
+      <link>http://keqh.net/</link>
+      <pubDate>Sun, 12 Jun 2016 15:43:51 +0900</pubDate>
+      
+      <guid>http://keqh.net/</guid>
+      <description>
+
+&lt;h2 id=&#34;links:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;links&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://qiita.com/kei_q&#34;&gt;Qiita&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/keqh&#34;&gt;github&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://speakerdeck.com/keqh&#34;&gt;speakerdeck&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/kei_q&#34;&gt;twitter&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;skills:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;skills&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;server side
+
+&lt;ul&gt;
+&lt;li&gt;Rails/AWS&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;client side
+
+&lt;ul&gt;
+&lt;li&gt;ObjectiveC/Swift&lt;/li&gt;
+&lt;li&gt;JavaScript&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;他
+
+&lt;ul&gt;
+&lt;li&gt;Haskell&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;興味-関心:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;興味・関心&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Developer Productivity&lt;/li&gt;
+&lt;li&gt;Infrastructure as Code&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;参加している勉強会-コミュニティ:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;参加している勉強会・コミュニティ&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://ginzarb.doorkeeper.jp/&#34;&gt;Ginza.rb | Doorkeeper&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://yhpg.doorkeeper.jp/&#34;&gt;横浜へなちょこプログラミング勉強会 | Doorkeeper&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
